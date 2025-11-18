@@ -97,7 +97,18 @@ Content and programming supports:
  
 # Party metaphor
 
+# Decision making
+
+TODO: Types of decision making and their tools and techniques
+
+# Working with volunteers
+
+TODO: Volunteers and champions, you may not be working with volunteers, but highlighting champions may still be good practice
+
+# Core values
+
+TODO: Connecting values behavior and culture
+TODO: Core value -> This looks like...
 
 
-# go through course and relate to projects
 
