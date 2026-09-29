@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="954.18201"
+   height="622.35498"
+   viewBox="0 0 954.182 622.35498"
+   font-family="Helvetica, Arial, sans-serif"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="smp_core_requirements.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="smp_core_requirements.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.86732236"
+     inkscape:cx="486.55496"
+     inkscape:cy="321.6797"
+     inkscape:window-width="1440"
+     inkscape:window-height="757"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <text
+     x="477.33221"
+     y="57.258789"
+     text-anchor="middle"
+     font-size="26px"
+     font-weight="bold"
+     fill="#222222"
+     id="text1">Core Requirements of a Software Management Plan</text>
+  <!-- Engineering focus -->
+  <text
+     x="154.44971"
+     y="129.25879"
+     text-anchor="middle"
+     font-size="19px"
+     font-weight="bold"
+     fill="#c2531d"
+     id="text2"
+     style="fill:#005260;fill-opacity:1">Engineering focus</text>
+  <polygon
+     points="266,181.11 334,181.11 368,240 334,298.89 266,298.89 232,240 "
+     fill="#e2622d"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon2"
+     style="fill:#005260;fill-opacity:1"
+     transform="translate(-196.55029,-35.741211)" />
+  <text
+     x="103.44971"
+     y="204.25879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text3">Version control</text>
+  <polygon
+     points="266,298.89 334,298.89 368,357.78 334,416.67 266,416.67 232,357.78 "
+     fill="#e2622d"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon3"
+     style="fill:#005260;fill-opacity:1"
+     transform="translate(-196.55029,-35.741211)" />
+  <text
+     x="103.44971"
+     y="322.03879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text4">Testing</text>
+  <polygon
+     points="368,240 436,240 470,298.89 436,357.78 368,357.78 334,298.89 "
+     fill="#e2622d"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon4"
+     style="fill:#005260;fill-opacity:1"
+     transform="translate(-196.55029,-35.741211)" />
+  <text
+     x="205.44971"
+     y="263.1488"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text5">Packaging</text>
+  <polygon
+     points="368,357.78 436,357.78 470,416.67 436,475.56 368,475.56 334,416.67 "
+     fill="#e2622d"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon5"
+     style="fill:#005260;fill-opacity:1"
+     transform="translate(-196.55029,-35.741211)" />
+  <text
+     x="205.44971"
+     y="380.9288"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text6">Code quality</text>
+  <!-- Documentation -->
+  <text
+     x="438.72919"
+     y="129.25879"
+     text-anchor="middle"
+     font-size="19px"
+     font-weight="bold"
+     fill="#a8790a"
+     id="text7"
+     style="fill:#830051;fill-opacity:1">Documentation focus</text>
+  <polygon
+     points="784,298.89 716,298.89 682,240 716,181.11 784,181.11 818,240 "
+     fill="#f0b429"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon7"
+     style="fill:#830051;fill-opacity:1"
+     transform="translate(-310.909,-35.741211)" />
+  <text
+     x="438.78632"
+     y="204.25879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#2b2b2b"
+     id="text8"
+     style="fill:#ffffff;fill-opacity:1">User docs</text>
+  <polygon
+     points="784,416.67 716,416.67 682,357.78 716,298.89 784,298.89 818,357.78 "
+     fill="#f0b429"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon8"
+     style="fill:#830051;fill-opacity:1"
+     transform="translate(-310.909,-35.741211)" />
+  <text
+     x="438.80219"
+     y="322.03879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#2b2b2b"
+     id="text9"
+     style="fill:#ffffff;fill-opacity:1">Deployment docs</text>
+  <polygon
+     points="784,534.45 716,534.45 682,475.56 716,416.67 784,416.67 818,475.56 "
+     fill="#f0b429"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon9"
+     style="fill:#830051;fill-opacity:1"
+     transform="translate(-310.909,-35.741211)" />
+  <text
+     x="438.80219"
+     y="439.81879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#2b2b2b"
+     id="text10"
+     style="fill:#ffffff;fill-opacity:1">Developer docs</text>
+  <!-- Project management focus -->
+  <text
+     x="753.44971"
+     y="129.25879"
+     text-anchor="middle"
+     font-size="19px"
+     font-weight="bold"
+     fill="#3d3d7a"
+     id="text11"
+     style="fill:#02284f;fill-opacity:1">Project management focus</text>
+  <polygon
+     points="966,181.11 1034,181.11 1068,240 1034,298.89 966,298.89 932,240 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon11"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="651.44971"
+     y="204.25879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text12">Purpose</text>
+  <polygon
+     points="966,298.89 1034,298.89 1068,357.78 1034,416.67 966,416.67 932,357.78 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon12"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="651.44971"
+     y="322.03879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text13">Repository</text>
+  <polygon
+     points="1068,240 1136,240 1170,298.89 1136,357.78 1068,357.78 1034,298.89 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon13"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="753.44971"
+     y="263.1488"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text14">Citation</text>
+  <polygon
+     points="1068,357.78 1136,357.78 1170,416.67 1136,475.56 1068,475.56 1034,416.67 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon14"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="753.44971"
+     y="380.9288"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text15">Licensing</text>
+  <polygon
+     points="1068,475.56 1136,475.56 1170,534.45 1136,593.34 1068,593.34 1034,534.45 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon15"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="753.44971"
+     y="498.7088"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text16">Maintenance</text>
+  <polygon
+     points="1170,181.11 1238,181.11 1272,240 1238,298.89 1170,298.89 1136,240 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon16"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="855.44971"
+     y="204.25879"
+     dy="4.5499997"
+     text-anchor="middle"
+     font-size="13px"
+     fill="#ffffff"
+     id="text17">Support</text>
+  <polygon
+     points="1170,298.89 1238,298.89 1272,357.78 1238,416.67 1170,416.67 1136,357.78 "
+     fill="#3d3d7a"
+     stroke="#ffffff"
+     stroke-width="3"
+     id="polygon17"
+     style="fill:#02284f;fill-opacity:1"
+     transform="translate(-348.55029,-35.741211)" />
+  <text
+     x="855.44971"
+     y="322.03879"
+     dy="4.1999998"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#ffffff"
+     id="text18">Risk analysis</text>
+  <text
+     x="476.57831"
+     y="589.25879"
+     text-anchor="middle"
+     font-size="14px"
+     font-style="italic"
+     fill="#555555"
+     id="text19">SMP core requirements, grouped by focus — adapted from Netherlands eScience Center / NWO Practical Guide to SMPs (2022)</text>
+</svg>
