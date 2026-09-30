@@ -126,7 +126,7 @@ As an association, Nordic-RSE works on promoting the careers of RSE by:
 
 # RSE in Finland
 
-RSE groups: 
+Official RSE groups: 
 - Aalto University
 - Uni Helsinki
 - CSC (?)
@@ -145,6 +145,8 @@ October 8th 2026
 Ravintola Factory Keilaniemi
 
 Meet about 20 RSEs from the capital region. 
+
+-> React to this message in RC or send me a message if you want to participate: https://rc.csc.fi/channel/ResearchSoftwareEngineering?msg=4vkJyQ2tztetMe9y9
 
 ---
 
@@ -182,6 +184,18 @@ RSE workshops/BoFs exits at:
 - PEARC (US)
 - PASC (CH)
 - Durham HPC days
+
+---
+
+# Scientific Computing Ambassadors
+
+.center[
+<img src="images/SciComp_ambassadors.png"
+     alt="A box representing the CodeRefinery community, a smaller box partly overlapping representing the team, another box overlapping partly with community and team representing the partner organizations with a smaller box inside the partner organizations representing the steering group and project manager linked to NeIC"
+     style="height: 350px;"/>
+
+]
+
 
 ---
 
